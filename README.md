@@ -11,8 +11,9 @@ A modern, responsive Weather App that allows users to search for current weather
 
 ## 🖼️ Screenshot
 
-![Weather App Screenshot](![image](https://github.com/user-attachments/assets/10cc4a6a-4550-4de4-81ab-f6e94233e048)
-) 
+![Weather App Screenshot](![Screenshot 2025-06-28 175134](https://github.com/user-attachments/assets/d7d93c48-2438-48b8-9bea-b18736dd4f4c)
+)
+
 
 ## 🛠️ Tech Stack
 
