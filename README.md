@@ -39,4 +39,4 @@ weather-app/
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/Lingaa-2005)
-- [LinkedIn](www.linkedin.com/in/lingaraj-nayak01)
+- [LinkedIn](https://www.linkedin.com/in/lingaraj-nayak01/)
